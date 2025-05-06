@@ -23,3 +23,5 @@ Back in the Terminal, type: python entity_extraction.py and watch the output.
 ### Evaluation for JOUR389W
 
 PUT YOUR EVALUATION HERE
+
+The AI did a good job of extracting people, places, and organizations from a fairly convoluted article. I was impressed that it managed to make sense of titles amid the mess of local officials mentioned. It even provided a little explanation to help us keep track of characters. I can see this being super useful for archival purposes; allowing readers to search by person, place, or organization to find all stories where they are mentioned. It would at least help to keep things more organized on the Times' end. 
